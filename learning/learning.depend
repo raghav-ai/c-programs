@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610345163 source:c:\users\ragha\desktop\learning\main.cpp
+	<iostream>
+	<vector>
+	<map>
+
+1608837679 source:c:\users\ragha\desktop\learning\src\aa.cpp
+	"aa.h"
+
+1608837678 c:\users\ragha\desktop\learning\include\aa.h
+

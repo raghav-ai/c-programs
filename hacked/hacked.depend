@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612286288 source:c:\users\ragha\desktop\hacked\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

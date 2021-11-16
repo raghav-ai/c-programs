@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610441239 source:c:\users\ragha\desktop\namesscore\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<algorithm>
+

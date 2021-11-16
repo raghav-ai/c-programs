@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611848586 source:c:\users\ragha\desktop\help\main.cpp
+	<iostream>
+	<vector>
+
